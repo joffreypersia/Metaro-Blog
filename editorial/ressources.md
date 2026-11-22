@@ -1,6 +1,11 @@
 # Skills et références de rédaction
 
-Les skills tiers ci-dessous servent à comparer des méthodes de révision. Les skills Metaro dans ce dépôt combinent une voix de rédaction et des vérifications propres aux images de presse.
+Les références ci-dessous couvrent la construction d’un article et la révision de sa prose. Les skills Metaro dans ce dépôt les complètent par une voix de rédaction et des vérifications propres aux images de presse.
+
+## Structurer un article
+
+- **Diátaxis.** Choisir le format d’après le besoin du lecteur. Le tutoriel enseigne, le guide aide à agir, la référence permet de consulter et l’explication aide à comprendre. [Diátaxis](https://diataxis.fr/)
+- **Principe de la pyramide de Barbara Minto.** Formuler la réponse directrice et organiser les arguments et preuves qui la soutiennent. Utile pour une explication ou une analyse qui doit donner sa réponse tôt. [Barbara Minto](https://www.barbaraminto.com/concept)
 
 ## Skills de rédaction en français
 
@@ -12,6 +17,7 @@ Pour la lisibilité et l’organisation de la rédaction web francophone, consul
 ## English writing skills
 
 - **Humanizer.** A line-editing reference for generic framing, inflated claims, and vague wording. Use it on a sourced draft and preserve technical names and qualifications during the edit. [Humanizer](https://github.com/blader/humanizer/blob/main/SKILL.md)
+- **n8n Humanizer.** n8n’s adaptation of the same Humanizer. It identifies patterns, rewrites the prose, and checks that the revision preserved named facts and citations. Use after the article’s structure and evidence are settled. [n8n source](https://github.com/n8n-io/n8n/blob/master/packages/frontend/editor-ui/src/experiments/recommendedSkills/content/humanizer/SKILL.md)
 - **Vercel Labs Technical Writer.** A reference for practical guides, particularly sequencing steps and checking examples against the software. Its project workflow is designed for agent-desktop. [Technical Writer](https://github.com/vercel-labs/agent-desktop/blob/main/.agents/skills/technical-writer/SKILL.md)
 
 For plain English in technical articles, consult Google's guidance on voice and tone. For web structure and reader needs, consult the GOV.UK content design guidance. [Google developer documentation style guide](https://developers.google.com/style/tone) · [GOV.UK content design](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/)

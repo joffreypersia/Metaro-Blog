@@ -10,9 +10,12 @@ Les skills se trouvent dans `.agents/skills/`. Ouvrez ce dépôt dans un agent c
 
 | Skill | Quand l’utiliser |
 | --- | --- |
+| [`metaro-article-workflow`](.agents/skills/metaro-article-workflow/SKILL.md) | Coécrire un article FR ou EN en six passes, avec un échange dans le chat à chaque étape. |
 | [`metaro-redaction-fr`](.agents/skills/metaro-redaction-fr/SKILL.md) | Rédiger, réviser ou adapter pour un lectorat francophone. |
 | [`metaro-writing-en`](.agents/skills/metaro-writing-en/SKILL.md) | Draft, edit, or adapt for an English-speaking readership. |
 | [`metaro-editorial-review`](.agents/skills/metaro-editorial-review/SKILL.md) | Vérifier les affirmations techniques, les légendes, les crédits et les risques liés à la publication, en français ou en anglais. |
+
+> Utilise `$metaro-article-workflow` pour coécrire avec moi un article sur la différence entre `Creator`, `Credit Line` et `Copyright Notice`. Commence par l’angle et attends ma réponse à chaque passe.
 
 > Utilise `$metaro-redaction-fr` pour expliquer à un photographe indépendant la différence entre le champ Creator et la ligne de crédit IPTC. Appuie-toi sur la spécification IPTC et donne un exemple fictif clairement signalé.
 
